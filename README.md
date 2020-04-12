@@ -1,2 +1,3 @@
-# notes
-课程笔记
+# 中国哲学notes
+## Content
+* 先秦哲学课程笔记
