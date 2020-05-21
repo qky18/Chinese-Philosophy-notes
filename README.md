@@ -1,3 +1,3 @@
-# 中国哲学notes
+# Chinese Philosophy notes
 ## Content
-* 先秦哲学课程笔记
+* Pre-Qin Philosophy - DSX
